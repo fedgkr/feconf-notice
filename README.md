@@ -1,4 +1,2 @@
 # FEConf notice
-
-- [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
-- [SPEAKER_GUIDE](./SPEAKER_GUIDE.md)
+* go [issues](https://github.com/fedgkr/feconf-notice/issues)
